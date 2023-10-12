@@ -1,5 +1,5 @@
 ---
-title: Grimmfest 2023 Shorts Programme
+title: Grimmfest 2023
 author: Chris Bissette
 date: October 10th, 2023
 categories:
