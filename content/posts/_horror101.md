@@ -76,10 +76,10 @@ No balls were dropped during the making of *X* (I'll let you provide the obvious
 
 ### Honourable Mentions
 
-• Talk To Me (2022)
-• The Black Phone (2021)
-• Alien (1979)
-• The Descent (2005)
-• Jeepers Creepers (2001)
+* Talk To Me (2022)
+* The Black Phone (2021)
+* Alien (1979)
+* The Descent (2005)
+* Jeepers Creepers (2001)
 
 
