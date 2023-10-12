@@ -1,12 +1,12 @@
 ---
 title: Review - Wolf Manor (2022)
 author: Chris Bissette
-tags: review, festivals
+
 ---
 
 > Screened at Grimmfest's _Monsters & Movies_ event in Manchester, November 2022.
 
-![The movie poster for Wolf Manor (2022)](../images/_WolfManor.jpg)
+![The movie poster for Wolf Manor (2022)](/images/_WolfManor.jpg)
 
 Horror comedy is a hard sell for me. Comedy in general is a hard sell, if I'm honest.
 I like funny films but I don't like it when I can feel somebody _trying_ to be funny at me.
