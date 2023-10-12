@@ -3,7 +3,7 @@ weight: 1
 title: About
 platen:
   menu:
-    flatten_section: true
+    hide: true
 ---
 
 > Poisoned Sweets

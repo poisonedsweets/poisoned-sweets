@@ -1,0 +1,18 @@
+.landing-title img {
+    @media (prefers-color-scheme: dark) {
+        // In dark mode, swap color to green so it's more visible
+        filter: invert(0.65) sepia(1) saturate(0.8) hue-rotate(80deg);
+      }
+}
+
+aside.platen-menu div.platen-menu-content nav {
+    ul li:has(a[href="/about"]) {
+        font-weight: bolder;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+    }
+
+    ul li:has(a[href$="/posts/"]) > a {
+        margin-top: 2rem;
+    }
+}
