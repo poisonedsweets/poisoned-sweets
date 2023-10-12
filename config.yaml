@@ -9,13 +9,22 @@ module:
 
 menu:
   before:
-    - name: Blog
-      url: /posts
-      weight: 10
-  after:
-    - name: Platen Documentation
-      url: https://platen.io/
-      weight: 10
+    - name: About
+      url:  /about
+    - name: Categories
+      url: /categories
+    - name: Tags
+      url: /tags
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
 
 params:
   description: A horror blog.

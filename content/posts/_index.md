@@ -5,4 +5,7 @@ type: PostIndex
 platen:
   menu:
     hide: false
+    flatten_section: false
 ---
+
+<!-- Required to make the page linkable in the site menu -->

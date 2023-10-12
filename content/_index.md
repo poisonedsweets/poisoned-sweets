@@ -5,6 +5,7 @@ summary: >-
 ---
 
 ![Poisoned Sweets. Unwrapping the dark centre of horror.](/images/_logo.png)
+{ .landing-title }
 
 A no-frills blog about horror, cinema, and the search for fear.
 
