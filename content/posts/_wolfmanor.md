@@ -1,7 +1,11 @@
 ---
 title: Review - Wolf Manor (2022)
 author: Chris Bissette
-
+categories:
+  - reviews
+tags:
+  - festivals
+type: posts
 ---
 
 > Screened at Grimmfest's _Monsters & Movies_ event in Manchester, November 2022.
@@ -17,8 +21,8 @@ through the door, guts hanging out of his mouth and gurgling nonsense, being met
 "What did he say? Something about a wolf?" is very funny. Likewise the moment when our aging
 thespian Oliver idly produces hundreds of foam balls from a cheap Cups And Balls magic set while
 holding a conversation, or the first half of the final confrontation when he ineffectively beats the
-beast around the head and body with a cane, in a sequence reminiscent of the Don't Stop Me Now scene in
-_Shaun Of The Dead_.
+beast around the head and body with a cane, in a sequence reminiscent of the Don't Stop Me Now scene
+in _Shaun Of The Dead_.
 
 The rest of it falls flat, unfortunately. Very few members of the film crew shooting a campy horror movie
 in a spooky old manor are sympathetic characters, but they're also not horrible enough that we're actively
