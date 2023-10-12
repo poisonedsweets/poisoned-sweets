@@ -17,7 +17,7 @@ With that said, here's a short list - in no particular order - of some of the sh
 
 ## Oldtimers
 
-![Oldtimers](../Images/_oldtimers.jpg)
+![Oldtimers](/images/_oldtimers.jpg)
 
 *Dir: Brian Quintero*
 
@@ -27,7 +27,7 @@ The piece ends with a glorious scene where the should-be-retired killers discove
 
 ## Ringworms
 
-![Ringworms](../Images/_ringworms.jpg)
+![Ringworms](/images/_ringworms.jpg)
 
 *Dir: Will Lee*
 
@@ -37,7 +37,7 @@ Very little is explained - which is fine, because explanations kill cosmic horro
 
 ## Unheimlich
 
-![Unheimlich](../Images/_unheimlich.jpg)
+![Unheimlich](/images/_unheimlich.jpg)
 
 *Dir: Fabio Colonna*
 
