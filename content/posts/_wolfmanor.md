@@ -1,10 +1,14 @@
 ---
 title: Review - Wolf Manor (2022)
 author: Chris Bissette
-tags: review, festivals
+categories:
+  - reviews
+tags:
+  - festivals
 ---
 
 > Screened at Grimmfest's _Monsters & Movies_ event in Manchester, November 2022.
+> Directed by Dominic Brunt.
 
 ![The movie poster for Wolf Manor (2022)](/images/_WolfManor.jpg)
 
