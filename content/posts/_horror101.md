@@ -1,7 +1,7 @@
 ---
 title: Entry Level Horror
 author: Chris Bissette
-date: October 12th, 2023
+date: 2023-10-12
 categories:
   - blog
 ---

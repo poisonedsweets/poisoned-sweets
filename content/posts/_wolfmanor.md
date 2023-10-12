@@ -1,7 +1,7 @@
 ---
 title: Review - Wolf Manor (2022)
 author: Chris Bissette
-date: November 27th, 2022
+date: 2022-11-27
 categories:
   - reviews
 tags:

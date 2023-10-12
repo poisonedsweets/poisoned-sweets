@@ -1,7 +1,7 @@
 ---
 title: Getting Nasty - Joe D'Amato's 'Absurd' (1981)
 author: Chris Bissette
-date: November 2nd, 2022
+date: 2022-11-02
 categories:
   - reviews
 tags:

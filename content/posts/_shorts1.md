@@ -1,7 +1,7 @@
 ---
 title: Grimmfest 2022 Shorts Programme
 author: Chris Bissette
-date: October 31st, 2022
+date: 2022-10-31
 categories:
   - reviews
 tags:

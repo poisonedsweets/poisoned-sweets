@@ -1,7 +1,7 @@
 ---
 title: Grimmfest 2023
 author: Chris Bissette
-date: October 10th, 2023
+date: 2023-10-10
 categories:
   - reviews
 tags:
