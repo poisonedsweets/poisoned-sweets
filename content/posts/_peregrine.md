@@ -1,7 +1,7 @@
 ---
 title: Miss Peregrine's Home For Peculiar Children
 author: Chris Bissette
-date: 2023-11-26
+date: 2023-10-26
 categories:
   - reviews
 tags:
