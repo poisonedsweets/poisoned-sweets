@@ -8,7 +8,7 @@ tags:
   - fiction
 ---
 
-*Author: Ransom Riggs*
+*Author: Ransom Riggs*  
 *[Affiliate link](https://amzn.to/46L6NDM)*
 
 ![Miss Peregrine's Home For Peculiar Children](/images/_peregrine.jpg)
