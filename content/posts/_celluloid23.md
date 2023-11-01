@@ -87,7 +87,7 @@ I also made a list of all the films we saw trailers for ahead of this, and I may
 
 I have no idea where this reel came from or how these trailers from close to 30 years of cinema ended up next to one another one it, but I'm very glad we got to see it. If you want to save this list on Letterboxd for some reason, [you can do that](https://letterboxd.com/chrisdeadthrone/list/lady-terminator-trailers/).
 
-# Falling Stars (2023)
+## Falling Stars (2023)
 
 *Dir. Richard Karpala, Gabriel Bienczycki*  
 *[Letterboxd](https://letterboxd.com/film/falling-stars-2023/)*
@@ -102,7 +102,7 @@ The film takes what could be a very silly concept and treats it deadly seriously
 
 That said, though, I adored this.
 
-# Where The Devil Roams (2023)
+## Where The Devil Roams (2023)
 
 *Dir. Toby Poser, John Adams, Zelda Adams*  
 *[Letterboxd](https://letterboxd.com/film/where-the-devil-roams/)*
@@ -115,7 +115,7 @@ It's very much a fever dream, letting plot and story fall by the wayside in plac
 
 It's not often that I want a prequel to a film, but I really want to learn more about Mr. Tips and where he got that heart from.
 
-# Stopmotion (2023)
+## Stopmotion (2023)
 
 *Dir. Robert Morgan*  
 *[Letterboxd](https://letterboxd.com/film/stopmotion/)*
@@ -128,7 +128,7 @@ Stories about weirdly niche parts of filmmaking are some of my favourites (see [
 
 For me as a person who makes a living from creative work the true horror of this film isn't in the physical events depicted on screen but in the uncomfortable, too-close-to-home things *Stopmotion* has to say about the often all-consuming obsession that comes along with artistic pursuits, and the sacrifices we have to make in order to profit from our passions. This one is going to stay with me for a while.
 
-# The Chapel (2023)
+## The Chapel (2023)
 
 *Dir. Carlota Pereda*  
 *[Letterboxd](https://letterboxd.com/film/berberian-sound-studio/)*
