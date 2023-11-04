@@ -1,7 +1,7 @@
 ---
 title: Laura Purcell - The Whispering Muse
 author: Chris Bissette
-date: 2023-11-05
+date: 2023-11-04
 categories:
   - reviews
 tags:
