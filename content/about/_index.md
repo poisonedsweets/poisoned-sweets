@@ -28,3 +28,5 @@ writing about my favourite and most enduring passion. Exactly what form that's g
 remains to be seen.
 
 Welcome to Poisoned Sweets. Thanks for joining me.
+
+*Links on this site may contain affiliate codes. I earn money from qualifying purchases.*
